@@ -1,0 +1,30 @@
+[NOME DA PIZZARIA]
+Sr.Pizzaria
+
+[CARDÁPIO - PIZZAS]
+1. Pizza Calabresa - R$30,00
+   • Descrição: Linguiça calabresa fatiada com queijo mozzarella
+   • Ingredientes: Massa, molho de tomate, queijo, calabresa
+
+2. Pizza Margherita - R$32,00
+   • Descrição: Tradicional italiana com manjericão
+   • Ingredientes: Massa, molho, queijo, manjericão
+
+[BEBIDAS]
+1. Coca-Cola - R$5,00
+2. Guaraná - R$5,00
+3. Suco de Laranja - R$7,00
+
+[SOBREMESAS]
+1. Pudim - R$8,00
+2. Sorvete de Chocolate - R$6,00
+
+[POLÍTICAS]
+• Entregas: 1-2 horas (taxa adicional)
+• Cancelamentos: Até 5 minutos após pedido
+• Devoluções: Não aceitas (exceto erros)
+• Meta: 500 reais por mês
+
+[CONTATO]
+• Telefone: (83) 1234-5678
+• Horário: 7h às 22h quem ganha dinheiro deitado é puta.
